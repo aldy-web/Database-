@@ -2,8 +2,8 @@
 ```csharp
 -------------------------
 LOGIN SCRIPT RaolLatestX
-USERNAME: admin
-PASSWORD: admin123
+USERNAME: ALDY
+PASSWORD: ALDY1045
 -------------------------
 ```
 ***© 2025 LatestURL. All rights reserved***
